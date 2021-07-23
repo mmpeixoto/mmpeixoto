@@ -1,4 +1,4 @@
-[gif header](https://media.giphy.com/media/VrtvDMP4ajo5y/giphy.gif)
+![gif header](https://media.giphy.com/media/VrtvDMP4ajo5y/giphy.gif)
 
 # Welcome!
 ## I am a Computer Engineering student. I love coding and interacting with technology!
