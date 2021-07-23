@@ -1,16 +1,27 @@
-### Hi there 👋
+[gif header](https://media.giphy.com/media/VrtvDMP4ajo5y/giphy.gif)
 
-<!--
-**mmpeixoto/mmpeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome!
+## I am a Computer Engineering student. I love coding and interacting with technology!
 
-Here are some ideas to get you started:
+- I’m currently looking for a job!
+- Improving my programming skills everyday
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Technologies that I study/use:
+
+	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+  https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+- JAVASCRIPT
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### :calling: Get in contact with me!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusmpeixoto/)](https://www.linkedin.com/in/matheusmpeixoto/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmpeixoto5@gmail.com)](mailto:mmpeixoto5@gmail.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmpeixoto&show_icons=true&theme=radical)
