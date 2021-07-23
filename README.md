@@ -24,3 +24,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmpeixoto5@gmail.com)](mailto:mmpeixoto5@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmpeixoto&show_icons=true&theme=radical)
+
+
+[![image](https://img.shields.io/website?url=https%3A%2F%2Fsite-guilherme-barreto.vercel.app%2F)](https://site-guilherme-barreto.vercel.app/)
