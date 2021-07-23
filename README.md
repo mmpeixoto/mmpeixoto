@@ -25,5 +25,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmpeixoto&show_icons=true&theme=radical)
 
-
-[![image](https://i.pinimg.com/originals/1e/06/e1/1e06e107f0ca520aed316957b685ef5c.jpg)](https://site-guilherme-barreto.vercel.app/)
