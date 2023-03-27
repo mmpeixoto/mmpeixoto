@@ -3,7 +3,7 @@
 # Welcome!
 ## I am a Computer Engineering student. I love coding and interacting with technology!
 
-- I’m currently looking for a job!
+- Currently on a Software Engineering Internship!
 - Improving my programming skills everyday
 
 <hr>
